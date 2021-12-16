@@ -11,6 +11,9 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
     <name>thymeleaf-adminlte</name>
+    <description>
+        Cool library for quick Bootstrap Admin applications
+    </description>
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
