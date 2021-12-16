@@ -1,0 +1,21 @@
+{
+    "elements": {
+        "th:block": {}
+    },
+    "attributes": {
+        "th:classappend": {},
+        "th:text": {},
+        "th:action": {
+            "context": "form"
+        },
+        "th:replace": {},
+        "th:fragment": {},
+        "th:content": {
+            "context": "meta"
+        },
+        "th:href": {
+            "context": "a"
+        },
+        "th:each": {}
+    }
+}
